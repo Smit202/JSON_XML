@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<bookstore>
+    <book id="2010">
+        <title>Bhagvad Gita As It Is</title>
+        <author>
+            <firstname>Bhaktivedant Swami</firstname>
+            <lastname>Praphupad</lastname>
+            <about>He is a Founder of ISCKON</about>
+        </author>
+        <publisher>Bhaktivedanta Book Trust</publisher>
+        <publication-date>1 January 2019</publication-date>
+        <ISBN>9384564192</ISBN>
+        <language>English</language>
+        <category>Spirituality</category>
+        <pages>924</pages>
+        <description>The largest-selling edition of the Gita in the Western world, Bhagavad-Gita as It Is, is more than a book. For many it has changed their lives altogether. Universally Bhagavad-Gita is renowned and truly claimed as the crown jewel of India?s spiritual wisdom. Spoken by Lord Krishna the Supreme Personality of Godhead to His intimate disciple Arjuna, the Gita’s seven hundred concise verses provides a definitive guide to the science of self realization. His Divine Grace A. C. Bhaktivedanta Swami Prabhupada, the world’s foremost Vedic scholar and teacher, represents an unbroken chain of fully self-realized spiritual masters beginning with Lord Krishna Himself. Thus unlike other editions of Bhagavad Gita he conveys Lord Krishna?s profound messages as it is ? without a slightest taint of adulteration or personally motivated gains. This edition is for every reader who would like to take a dip in the ocean of spiritual sea and for those who would like to learn the spiritual science ?as it is?.</description>
+        <price>299</price>
+        <quantity>400</quantity>
+    </book>
+
+    <book id="1234">
+        <title>The Freedom Manifesto</title>
+        <author>
+            <firstname>Karan</firstname>
+            <lastname>Bajaj</lastname>
+            <about>Karan Bajaj is the Founder of WhiteHat Jr, acquired by BYJU’s in the fastest startup exit of its size in India. He’s also a bestselling novelist whose books have sold more than 200,000+ copies in India and optioned for movie deals: Keep off the Grass, Johnny Gone Down, The Seeker, and The Yoga of Max’s Discontent, published by HarperCollins and Penguin Random House. A graduate of IIM-Bangalore, Karan has earlier served as the Country Head for Discovery Networks in South Asia. He was selected a Top 40 Under 40 Executive by Advertising Age US in his business career and shortlisted for Teacher’s Achievement Award, Crossword Book Pick of the Year, Indiaplaza Golden Quill and India Today’s 35 Under 35 in his writing career. A striving yogi, Karan has taken three year-long career sabbaticals to pursue his interests in spirituality, backpacking and hiking. He can be reached via his blog at www.karanbajaj.com</about>
+        </author>
+        <publisher>HarperBusiness</publisher>
+        <publication-date>28 November 2022</publication-date>
+        <ISBN>9356292523</ISBN>
+        <language>English</language>
+        <category>Economics</category>
+        <pages>254</pages>
+        <description>The One Book that will TRANSFORM YOUR LIFE forever</description>
+        <price>199</price>
+        <quantity>50</quantity>
+    </book>
+
+    <book id="2569">
+        <title>The Power of Your Subconscious Mind</title>
+        <author>
+            <firstname>Dr. Joseph</firstname>
+            <lastname>Murphy</lastname>
+            <about>Dr. Joseph Murphy was a Divine Science minister and author. Murphy was born in Ireland, the son of a private boy’s school headmaster and raised a Roman Catholic. He studied for the priesthood and joined the Jesuits. In his twenties, an experience with healing prayer led him to leave the Jesuits and move to the United States. Murphy has given lectures and written books for audiences all over the world. In his lectures he points out how real people can radically improve their lives by applying specific aspects of his concepts.</about>
+        </author>
+        <publisher>Fingerprint! Publishing</publisher>
+        <publication-date>1 December 2019</publication-date>
+        <ISBN>9389717345</ISBN>
+        <language>English</language>
+        <category>Success</category>
+        <pages>256</pages>
+        <description>An exquisitely designed leather-bound edition of one of the most powerful self-help title, this book comes with a ribbon bookmark, gilded edges and beautiful endpapers. Ideal to be read and treasured, it makes for a perfect addition to any library. This remarkable book by Dr. Joseph Murphy, one of the pioneering voices of affirmative-thinking, will unlock for you The truly staggering powers of your Subconscious mind. Combining time-honoured spiritual wisdom with cutting edge scientific research, Dr. Murphy explains how the subconscious mind influences every single thing that you do and how, by understanding It and learning to control its incredible force, you can improve the quality of your daily life. Everything, from the promotion that you wanted and the raise you think you deserve, to overcoming phobias and bad habits and strengthening interpersonal relationships, The power of your Subconscious mind will open a world of happiness, success, prosperity and peace for you. It will change your life and your world by changing your beliefs.</description>
+        <price>349</price>
+        <quantity>100</quantity>
+    </book>
+
+    <book id="2589">
+        <title>Rich Dad Poor Dad : What The Rich Teach Their Kids About Money That The Poor And Middle Class Do Not!</title>
+        <author>
+            <firstname>Robert</firstname>
+            <lastname>Klyosaki</lastname>
+            <about>Best known as the author of Rich Dad Poor Dad-the #1 personal finance book of all time-Robert Kiyosaki has challenged and changed the way tens of millions of people around the world think about money. He is an entrepreneur, educator, and investor who believes that each of us has the power to makes changes in our lives, take control of our financial future, and live the rich life we deserve. With perspectives on money and investing that often contradict conventional wisdom, Robert has earned an international reputation for straight talk, irreverence, and courage and has become a passionate and outspoken advocate for financial education. Robert's most recent books-Why the Rich Are Getting Richer and More Important Than Money-were published in the spring of last year to mark the 20th Anniversary of the 1997 release of Rich Dad Poor Dad. That book and its messages, viewed around the world as a classic in the personal finance arena, have stood the test of time. Why the Rich Are Getting Richer, released two decades after the international blockbuster bestseller Rich Dad Poor Dad, is positioned as Rich Dad Graduate School. Robert has also co-authored two books with Donald Trump, prior to his successful bid for the White House and election as President of the United States.</about>
+        </author>
+        <publisher>Plata Publishing</publisher>
+        <publication-date>6 August 2022</publication-date>
+        <ISBN>1612681131</ISBN>
+        <language>English</language>
+        <category>Analysis and Strategy</category>
+        <pages>336</pages>
+        <description>April of 2022 marks a 25-year milestone for the personal finance classic Rich Dad Poor Dad that still ranks as the #1 Personal Finance book of all time. And although 25 years have passed since Rich Dad Poor Dad was first published,readers will find that very little in the book itself has changed ― and for good reason. While so much in our world is changing a high speed, the lessons about money and the principles of Rich Dad Poor Dad haven’t changed. Today, as money continues to play a key role in our daily lives, the messages in Robert Kiyosaki’s international bestseller are more timely and more important than ever.</description>
+        <price>419</price>
+        <quantity>100</quantity>
+    </book>
+
+    <book id="7865">
+        <title>The Psychology of Money</title>
+        <author>
+            <firstname>Morgan</firstname>
+            <lastname>Housel</lastname>
+            <about>Morgan Housel is a partner at The Collaborative Fund. He is a two-time winner of the Best in Business Award from the Society of American Business Editors and Writers, winner of the New York Times Sidney Award, and a two-time finalist for the Gerald Loeb Award for Distinguished Business and Financial Journalism. He lives in Seattle with his wife and two kids.</about>
+        </author>
+        <publisher>Jaico Publishing House</publisher>
+        <publication-date>1 September 2020</publication-date>
+        <ISBN>9390166268</ISBN>
+        <language>English</language>
+        <category>Analysis and Strategy</category>
+        <pages>252</pages>
+        <description>Timeless lessons on wealth, greed, and happiness doing well with money isn?t necessarily about what you know. It?s about how you behave. And behavior is hard to teach, even to really smart people. How to manage money, invest it, and make business decisions are typically considered to involve a lot of mathematical calculations, where data and formulae tell us exactly what to do. But in the real world, people don?t make financial decisions on a spreadsheet. They make them at the dinner table, or in a meeting room, where personal history, your unique view of the world, ego, pride, marketing, and odd incentives are scrambled together. In the psychology of money, the author shares 19 short stories exploring the strange ways people think about money and teaches you how to make better sense of one of life?s most important matters.</description>
+        <price>160</price>
+        <quantity>80</quantity>
+    </book>
+</bookstore> 
